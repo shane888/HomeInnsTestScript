@@ -4,6 +4,7 @@ Behave+Appium test script for HomeInns Android and iOS app
 # Environment setup
 ## Appium 
 Please refer to appium.io for appium setup
+https://github.com/appium/python-client
 
 Android sdk 2.3+ is needed
 Xcode is needed
